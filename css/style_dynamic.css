@@ -27,15 +27,10 @@ header.sticky .header_bottom{
 	background-color: rgba(255,255,255,0.6);
 }
 
+.content{
+		margin-top: -70px;
+}
 
-
-
-
-						.content{
-				margin-top: -70px;
-			}
-				
-	
 .logo_wrapper,
 .side_menu_button,
 .shopping_cart_inner
